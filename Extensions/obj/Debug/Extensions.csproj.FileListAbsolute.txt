@@ -1,0 +1,12 @@
+C:\Users\Pythagoras\Desktop\Practicum Docs\701 - VIN65\Csharp\Extensions\Extensions\bin\Debug\Extensions.exe.config
+C:\Users\Pythagoras\Desktop\Practicum Docs\701 - VIN65\Csharp\Extensions\Extensions\bin\Debug\Extensions.exe
+C:\Users\Pythagoras\Desktop\Practicum Docs\701 - VIN65\Csharp\Extensions\Extensions\bin\Debug\Extensions.pdb
+C:\Users\Pythagoras\Desktop\Practicum Docs\701 - VIN65\Csharp\Extensions\Extensions\obj\Debug\Extensions.csprojResolveAssemblyReference.cache
+C:\Users\Pythagoras\Desktop\Practicum Docs\701 - VIN65\Csharp\Extensions\Extensions\obj\Debug\Extensions.exe
+C:\Users\Pythagoras\Desktop\Practicum Docs\701 - VIN65\Csharp\Extensions\Extensions\obj\Debug\Extensions.pdb
+E:\000-BACKUP\300-CSharp\001-Good Code\Extensions\Extensions\bin\Debug\Extensions.exe.config
+E:\000-BACKUP\300-CSharp\001-Good Code\Extensions\Extensions\bin\Debug\Extensions.exe
+E:\000-BACKUP\300-CSharp\001-Good Code\Extensions\Extensions\bin\Debug\Extensions.pdb
+E:\000-BACKUP\300-CSharp\001-Good Code\Extensions\Extensions\obj\Debug\Extensions.csprojResolveAssemblyReference.cache
+E:\000-BACKUP\300-CSharp\001-Good Code\Extensions\Extensions\obj\Debug\Extensions.exe
+E:\000-BACKUP\300-CSharp\001-Good Code\Extensions\Extensions\obj\Debug\Extensions.pdb

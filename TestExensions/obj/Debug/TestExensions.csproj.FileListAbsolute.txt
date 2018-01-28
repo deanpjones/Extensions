@@ -1,0 +1,30 @@
+C:\Users\Pythagoras\Desktop\Practicum Docs\701 - VIN65\Csharp\Extensions\TestExensions\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Pythagoras\Desktop\Practicum Docs\701 - VIN65\Csharp\Extensions\TestExensions\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Pythagoras\Desktop\Practicum Docs\701 - VIN65\Csharp\Extensions\TestExensions\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Pythagoras\Desktop\Practicum Docs\701 - VIN65\Csharp\Extensions\TestExensions\bin\Debug\TestExensions.dll
+C:\Users\Pythagoras\Desktop\Practicum Docs\701 - VIN65\Csharp\Extensions\TestExensions\bin\Debug\TestExensions.pdb
+C:\Users\Pythagoras\Desktop\Practicum Docs\701 - VIN65\Csharp\Extensions\TestExensions\bin\Debug\Extensions.exe
+C:\Users\Pythagoras\Desktop\Practicum Docs\701 - VIN65\Csharp\Extensions\TestExensions\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Pythagoras\Desktop\Practicum Docs\701 - VIN65\Csharp\Extensions\TestExensions\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Pythagoras\Desktop\Practicum Docs\701 - VIN65\Csharp\Extensions\TestExensions\bin\Debug\Extensions.pdb
+C:\Users\Pythagoras\Desktop\Practicum Docs\701 - VIN65\Csharp\Extensions\TestExensions\bin\Debug\Extensions.exe.config
+C:\Users\Pythagoras\Desktop\Practicum Docs\701 - VIN65\Csharp\Extensions\TestExensions\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Pythagoras\Desktop\Practicum Docs\701 - VIN65\Csharp\Extensions\TestExensions\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Pythagoras\Desktop\Practicum Docs\701 - VIN65\Csharp\Extensions\TestExensions\obj\Debug\TestExensions.csprojResolveAssemblyReference.cache
+C:\Users\Pythagoras\Desktop\Practicum Docs\701 - VIN65\Csharp\Extensions\TestExensions\obj\Debug\TestExensions.dll
+C:\Users\Pythagoras\Desktop\Practicum Docs\701 - VIN65\Csharp\Extensions\TestExensions\obj\Debug\TestExensions.pdb
+E:\000-BACKUP\300-CSharp\001-Good Code\Extensions\TestExensions\obj\Debug\TestExensions.csprojResolveAssemblyReference.cache
+E:\000-BACKUP\300-CSharp\001-Good Code\Extensions\TestExensions\obj\Debug\TestExensions.dll
+E:\000-BACKUP\300-CSharp\001-Good Code\Extensions\TestExensions\obj\Debug\TestExensions.pdb
+E:\000-BACKUP\300-CSharp\001-Good Code\Extensions\TestExensions\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\000-BACKUP\300-CSharp\001-Good Code\Extensions\TestExensions\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\000-BACKUP\300-CSharp\001-Good Code\Extensions\TestExensions\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\000-BACKUP\300-CSharp\001-Good Code\Extensions\TestExensions\bin\Debug\TestExensions.dll
+E:\000-BACKUP\300-CSharp\001-Good Code\Extensions\TestExensions\bin\Debug\TestExensions.pdb
+E:\000-BACKUP\300-CSharp\001-Good Code\Extensions\TestExensions\bin\Debug\Extensions.exe
+E:\000-BACKUP\300-CSharp\001-Good Code\Extensions\TestExensions\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\000-BACKUP\300-CSharp\001-Good Code\Extensions\TestExensions\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\000-BACKUP\300-CSharp\001-Good Code\Extensions\TestExensions\bin\Debug\Extensions.pdb
+E:\000-BACKUP\300-CSharp\001-Good Code\Extensions\TestExensions\bin\Debug\Extensions.exe.config
+E:\000-BACKUP\300-CSharp\001-Good Code\Extensions\TestExensions\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\000-BACKUP\300-CSharp\001-Good Code\Extensions\TestExensions\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
